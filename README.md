@@ -10,3 +10,6 @@ The program already extracts the words from "wordList.txt" into a 2D ArrayList, 
 Once you have removed all invalid words, the final word counts will be:
     • Number of total words = 8033
     • Number of unique words = 2334
+
+
+This coding exercise was created by Professor Stephen Harris and has been edited and uploaded by Emily Nowak with permission.
